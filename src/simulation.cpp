@@ -19,7 +19,7 @@ double lastmarkx = 0.0;
 double lastmarky = 0.0;
 
 const std::string key[3] = {"who", "what", "where"};
-const std::string person[6] = {"MissScarlett", "ColonelMustard", "MrsWhite", "MrGreen", "MrsPeacock", "ProfPlum"};
+const std::string person[6] = {"missScarlett", "colonelMustard", "mrsWhite", "mrGreen", "mrsPeacock", "profPlum"};
 const std::string object[6] = {"candlestick", "dagger", "leadPipe", "revolver", "rope", "spanner"};
 const std::string place[9] = {"conservatory", "lounge", "kitchen", "library", "hall", "study", "bathroom", "diningRoom", "billiardRoom"}; 
 
